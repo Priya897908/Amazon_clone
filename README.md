@@ -11,7 +11,7 @@ This project is a clone of the Amazon homepage, built using HTML and CSS. The de
 ✅ GitHub Pages Deployment – Live and accessible online.
 
 Live Demo
-🔗 Amazon Clone Website
+🔗 [Amazon Clone Website](https://priya897908.github.io/Amazon_clone/)
 
 Future Improvements
 🔹 Add a JavaScript-powered search feature.
